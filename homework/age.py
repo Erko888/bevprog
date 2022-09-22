@@ -2,7 +2,7 @@ def main():
     yourAge = int(input("How old are you: "))
     americanLegalDrinkingAge = 21
     abletoBuyCigarettesHungary = 18
-    abletoGetDriversLicenseHungary = 17
+    abletoGetDriversLicenseHungary = 16
     shrek2AgeLimit = 12
 
     if yourAge>=americanLegalDrinkingAge:
