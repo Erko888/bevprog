@@ -6,7 +6,7 @@ def main():
     while(szam > 0):
         digit = szam % 10 #utolso szamjegy
         reverse = reverse * 10 + digit
-        szam = szam / 10
+        szam = szam // 10
 
     if original == reverse:
         print("A szám tükör szám!")
