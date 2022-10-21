@@ -1,4 +1,3 @@
-import math
 from cmath import pi
 
 def kor():
